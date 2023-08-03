@@ -1,0 +1,15 @@
+.eachItemCard {
+  margin: 5px;
+}
+.eachImg {
+  width: 100%;
+}
+.videoPla {
+  width: 9%;
+}
+.popup-content {
+  margin: auto;
+  background: rgb(255, 255, 255);
+  width: 20%;
+  padding: 5px;
+}

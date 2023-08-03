@@ -1,0 +1,15 @@
+.firstDiv {
+  background-color: blueviolet;
+}
+.card {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.container {
+  background-color: black;
+  color: white;
+  min-height: 100vh;
+}
+.primeVideoImg {
+  width: 100%;
+}
